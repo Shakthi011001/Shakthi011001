@@ -38,11 +38,6 @@
 
 <br/>
 
-<a href="https://github.com/Shakthi011001">
-  
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
