@@ -5,6 +5,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Vellore Institute of Technology.
-- 💼 &nbsp; Working as a Frontend Web Developer at Cybercyloid.
+- 💼 &nbsp; Worked as a Frontend Web Developer at Cybercyloid.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
 <br>
